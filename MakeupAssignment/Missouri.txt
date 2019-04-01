@@ -1,0 +1,17 @@
+St. Louis, Jefferson City,Kansas City,Springfield, Kirksville, Hannibal
+Kansas City
+St. Louis, Jefferson City,133
+St. Louis,Kansas City,248
+St. Louis, Springfield, 217
+St. Louis, Kirksville,204
+St. Louis, Hannibal,116
+Jefferson City,Kansas City, 157
+Jefferson City,Springfield, 137
+Jefferson City, Kirksville,122
+Jefferson City,Hannibal, 105
+Kansas City,Springfield,166
+Kansas City,Kirksville,165
+Kansas City,Hannibal, 210
+Springfield, Kirksville, 258
+Springfield, Hannibal, 241
+Kirksville, Hannibal, 96
